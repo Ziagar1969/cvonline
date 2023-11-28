@@ -1,0 +1,35 @@
+.Media{
+    
+    box-shadow: unset;
+    width: 2em;
+    height: 2em;
+    background-color:#dbc2a4;
+    padding:5px;
+    border-radius: 35px;
+
+}
+
+
+
+
+.Media:hover{
+    opacity:0.33;
+}
+
+
+header img{
+    position:static;
+    width: 100px;
+    border-radius: 55px;
+    box-shadow: 3px 3px 3px 3px #dbc2a4;
+}
+
+header img:hover{
+    cursor:zoom-in;
+}
+header img:active{
+    position:static;
+    width:400px;
+    border-radius: unset;
+    box-shadow: unset;
+}
