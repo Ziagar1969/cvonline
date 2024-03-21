@@ -1,0 +1,17 @@
+@font-face {
+    font-family:'Raleway';
+    src: url(../FONTS/Raleway/Raleway-Black.woff);
+    src: url(../FONTS/Raleway/Raleway-Black.ttf);
+    src: url(../FONTS/Raleway/Raleway-Bold.woff);
+    src: url(../FONTS/Raleway/Raleway-Bold.ttf);
+    src: url(../fonts/Raleway/Raleway-Light.woff);
+    src: url(../fonts/Raleway/Raleway-Light.ttf);
+}
+
+
+h1{
+    font-family: 'Lato';
+    font-weight:200;
+    margin-top: 10px;
+    margin-bottom:-8px;
+           }       
